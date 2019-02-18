@@ -5,9 +5,9 @@ Prerequisites
 
 You need to have installed
 
-    * `make`
-    * `ruby-mustache`
-    * `pandoc`
+* `make`
+* `ruby-mustache`
+* `pandoc`
 
 To run
 ======
@@ -15,6 +15,6 @@ To run
 Just type
 
 ```
-    $ make
+    make
 ```
 
