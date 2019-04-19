@@ -1,5 +1,31 @@
 {
-  "isbn": "987-123-4567-890",
-  "title": "British Habits of the Canadian Goose",
-  "author": "HM Stationery Office"
+  "title": "Tennyson's Poems: New Textual Parallels",
+  "author": "R.H. Winnick",
+  "doi": "10.11647/OBP.0161",
+  "copyright_url": "https://www.openbookpublishers.com/product/994#copyright",
+  "resource_url": "https://www.openbookpublishers.com/product/944#resources",
+  "cover_image_info": "'Alfred, Lord Tennyson' by Herbert Rose Barraud. Carbon print, ca. 1888, NPG x26788 (c) National Portrait Gallery, London",
+  "cover_designer": "Anna Gatti",
+  "isbn_info": [
+      {
+          "format": "Paperback",
+          "isbn": "987-1-78374-661-3"
+      },
+      {
+          "format": "Hardback",
+          "isbn": "978-1-78374-662-0"
+      },
+      {
+          "format": "Digital (PDF)",
+          "isbn": "978-1-78374-663-7"
+      },
+      {
+          "format": "Digital ebook (epub)",
+          "isbn": "978-1-78374-664-4"
+      },
+      {
+          "format": "Digital ebook (mobi)",
+          "isbn": "978-1-78374-665-1"
+      }
+  ]
 }

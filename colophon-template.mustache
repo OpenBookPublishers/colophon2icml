@@ -1,6 +1,44 @@
-Title              
-=====
+QR Code
 
-Our title is: {{ title }}
+https://www.openbookpublishers.com/
 
-The ISBN is {{ isbn }} and it was written by {{ author }}.
+Copyright (c) by {{ author }}
+
+CC BY logo
+
+This work is licensed under a Creative Commons Attribute 4.0
+International license (CC BY 4.0). This license allows you to share,
+copy, distribute and transmit the work; to adapt the work and to make
+commercial use of the work provided that the attribution is made to
+the author (but not in any way which suggests that the author endorses
+you or your use of the work). Attribution should include the following
+information:
+
+{{ author }}, *{{ title }}**. Cambridge, UK: Open Book Publishers,
+2019. https://doi.org/{{ doi }}
+
+In order to access detailed and updated information on the license,
+please visit {{ copyright_url }}
+
+Further details about CC BY licenses are available at
+https://creativecommons.org/licenses/by/4.0/
+
+Digital material and resources associated with this volume are available at
+{{ resource_url }}
+
+Every effort has been made to identify and contact copyright holders
+and any omission or error will be corrected if notification is made to
+the publisher.
+
+{{#isbn_info}}
+* ISBN {{ format }}: {{ isbn }}
+{{/isbn_info}}
+* DOI: {{ doi }}
+
+Cover image {{ cover_image_info }}.
+
+Cover design by {{ cover_designer }}.
+
+All paper used by Open Book Publishers is SFI (Sustainable Forestry
+Initiative) and PEFC (Programme for the Endorsement of Forest
+Certification Schemes) certified.
